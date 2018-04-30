@@ -1,0 +1,25 @@
+{
+  "name": "level-keyish",
+  "version": "1.0.0",
+  "description": "Simple key generator for LevelDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "homepage": "https://github.com/chilts/level-keyish",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilts/level-keyish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chilts/level-keyish/issues"
+  },
+  "author": "Andrew Chilton",
+  "keywords": [
+    "leveldb",
+    "level",
+    "levelup",
+    "leveldown"
+  ],
+  "license": "ISC"
+}
